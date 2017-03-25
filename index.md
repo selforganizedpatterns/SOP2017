@@ -9,7 +9,7 @@ Patterns are widespread in nature: regular forms and geometries, like spirals, t
  + Timoteo Carletti
  + Duccio Fanelli
  + Johanne Hizanidis
- + Nikos E. Kouvaris
+ + [Nikos E. Kouvaris](nikos.techprolet.com)
 
 ### Keynote Speakers 
 
