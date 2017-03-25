@@ -24,9 +24,14 @@ For **abstract** or **paper** submission, please refer to the **[Conference Mana
 ### Keynote Speakers 
  TBA
  
+ ### Program 
+ TBA
  
 ### Location (Conference Venue)
 The Workshop will be held at [University of Firenze, Didactic Plexus "Capponi", via Gino Capponi 9, Firenze, Italy.](https://www.google.com/maps/place/Via+Gino+Capponi,+9,+50121+Firenze,+Italy/@43.777578,11.262196,16z/data=!4m5!3m4!1s0x132a541ac0209d39:0xe840655fb210944!8m2!3d43.7775777!4d11.2621957?ll=43.777578,11.262196&z=16&t=m&hl=en-US&gl=IT&mapclient=embed&q=Via+Gino+Capponi,+9+50121+Firenze)
+
+### Previous Events
+[SOP2016](http://complex.ffn.ub.es/~sop16/): Self-organized patterns on complex networks. A satellite workshop of the 2016 Conference on Complex Systems, 21 September 2016.
 
 
 
