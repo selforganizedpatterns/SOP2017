@@ -6,10 +6,10 @@ Patterns are widespread in nature: regular forms and geometries, like spirals, t
 
 
 ### Organizers
- + Timoteo Carletti
- + Duccio Fanelli
- + Johanne Hizanidis
- + [Nikos E. Kouvaris](nikos.techprolet.com)
+ + [Timoteo Carletti](https://directory.unamur.be/staff/tcarlett)
+ + [Duccio Fanelli](https://sites.google.com/site/ducciofanelli1/home)
+ + [Johanne Hizanidis](https://qcn.physics.uoc.gr/)
+ + [Nikos E. Kouvaris](http://nikos.techprolet.com/)
 
 ### Keynote Speakers 
 
