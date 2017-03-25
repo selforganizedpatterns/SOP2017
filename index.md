@@ -12,4 +12,13 @@ Patterns are widespread in nature: regular forms and geometries, like spirals, t
  + [Nikos E. Kouvaris](http://nikos.techprolet.com/)
 
 ### Keynote Speakers 
+ TBA
+
+
+### Registration
+
+Registration is now open. 
+Registration to [PhysCon](http://www.physcon2017.com/) is required in order to attend the workshop.
+For **abstract** or **paper** submission, please refer to the **[Conference Management System](http://coms.physcon.ru/)**
+
 
