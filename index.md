@@ -18,8 +18,7 @@ Patterns are widespread in nature: Regular forms and geometries, like spirals, t
 
 ### Registration
 Registration is now open.
-Registration to [PhysCon](http://www.physcon2017.com/) is required in order to attend the workshop.
-
+Registration to [PhysCon](http://www.physcon2017.com/) is required in order to attend the workshop.<br />
 For **abstract** or **paper** submission, please refer to the **[Conference Management System](http://coms.physcon.ru/)**
 
 
