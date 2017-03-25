@@ -16,9 +16,12 @@ Patterns are widespread in nature: regular forms and geometries, like spirals, t
 
 
 ### Registration
-
 Registration is now open. 
 Registration to [PhysCon](http://www.physcon2017.com/) is required in order to attend the workshop.
 For **abstract** or **paper** submission, please refer to the **[Conference Management System](http://coms.physcon.ru/)**
 
+
+### Important dates
+ - Abstract submission (NEW) deadline: 30 March 2017
+ - Notification of acceptance: 30 April 2017
 
