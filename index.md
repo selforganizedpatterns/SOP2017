@@ -26,8 +26,7 @@ For **abstract** or **paper** submission, please refer to the **[Conference Mana
  
  
 ### Location (Conference Venue)
-The Workshop will be held at [University of Firenze, Didactic Plexus "Capponi", via Gino Capponi 9, Firenze, Italy.](<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.7724783986314!2d11.260001651480563!3d43.777581552293576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132a541ac0209d39%3A0xe840655fb210944!2sVia+Gino+Capponi%2C+9%2C+50121+Firenze%2C+Italy!5e0!3m2!1sen!2sit!4v1490441080415" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<a itemprop="hasMap" href="yourGoogleMapUrl">Get Directions</a>)
+The Workshop will be held at [University of Firenze, Didactic Plexus "Capponi", via Gino Capponi 9, Firenze, Italy.](https://www.google.com/maps/place/Via+Gino+Capponi,+9,+50121+Firenze,+Italy/@43.777578,11.262196,16z/data=!4m5!3m4!1s0x132a541ac0209d39:0xe840655fb210944!8m2!3d43.7775777!4d11.2621957?ll=43.777578,11.262196&z=16&t=m&hl=en-US&gl=IT&mapclient=embed&q=Via+Gino+Capponi,+9+50121+Firenze)
 
 
 
