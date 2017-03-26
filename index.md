@@ -37,5 +37,5 @@ The Workshop will be held at [University of Firenze, Didactic Plexus "Capponi", 
 ### Previous Events
  * [SOP2016](http://complex.ffn.ub.es/~sop16/): Self-organized patterns on complex networks. A satellite workshop of the 2016 Conference on Complex Systems, 21 September 2016.
 
-
+<img src="https://github.com/selforganizedpatterns/sop2017/blob/master/LOGO_naxysGG2.png" width="100"/><img src="https://github.com/selforganizedpatterns/sop2017/blob/master/UNamur.jpg" width="100"/><img src="https://github.com/selforganizedpatterns/sop2017/blob/master/logo_firenze.png" width="100"/><img src="https://github.com/selforganizedpatterns/sop2017/blob/master/logo_firenze2.png" width="100"/><img src="https://github.com/selforganizedpatterns/sop2017/blob/master/logo_qcn.png" width="100"/><img src="https://github.com/selforganizedpatterns/sop2017/blob/master/upf.png" width="100"/><img src="https://github.com/selforganizedpatterns/sop2017/blob/master/cbc.png" width="100"/>
 
