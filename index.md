@@ -12,6 +12,7 @@ Patterns are widespread in nature: Regular forms and geometries, like spirals, t
  
  
 ### Important dates
+ - Conference dates: **17-19 July 2017**
  - Abstract submission _deadline_: **30 March 2017**
  - Notification of acceptance: 30 April 2017
 
