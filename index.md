@@ -26,9 +26,10 @@ For **abstract** or **paper** submission, please refer to the **[Conference Mana
 ### Invited Speakers 
  + Giulia Cencetti
  + [Timoteo Carletti](https://directory.unamur.be/staff/tcarlett)
-<!--- + [Thanos Manos](https://sites.google.com/site/thanosmanos/) (not yet confirmed)
+<!--- 
++ [Thanos Manos](https://sites.google.com/site/thanosmanos/) (not yet confirmed)
  + [Philipp Hövel](http://www.itp.tu-berlin.de/nachwuchsgruppe_nonlinear_dynamics_and_control_neuroscience_and_empirical_networks/hoevel/mitglieder/phoevel/) (not yet confirmed)
--->
+--->
 ### Program
  TBA
  
