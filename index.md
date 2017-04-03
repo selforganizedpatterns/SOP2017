@@ -23,10 +23,12 @@ Registration to [PhysCon](http://www.physcon2017.com/) is required in order to a
 For **abstract** or **paper** submission, please refer to the **[Conference Management System](http://coms.physcon.ru/)**
 
 
-### Keynote Speakers 
- TBA
-
-
+### Invited Speakers 
+ + Giulia Cencetti
+ + [Timoteo Carletti](https://directory.unamur.be/staff/tcarlett)
+<!--- + [Thanos Manos](https://sites.google.com/site/thanosmanos/) (not yet confirmed)
+ + [Philipp Hövel](http://www.itp.tu-berlin.de/nachwuchsgruppe_nonlinear_dynamics_and_control_neuroscience_and_empirical_networks/hoevel/mitglieder/phoevel/) (not yet confirmed)
+-->
 ### Program
  TBA
  
