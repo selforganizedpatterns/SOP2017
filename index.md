@@ -24,9 +24,10 @@ For **abstract** or **paper** submission, please refer to the **[Conference Mana
 
 
 ### Invited Speakers 
+ + [Philipp Hövel](http://www.itp.tu-berlin.de/nachwuchsgruppe_nonlinear_dynamics_and_control_neuroscience_and_empirical_networks/hoevel/nwg_hoevel/)
  + Giulia Cencetti
  + [Timoteo Carletti](https://directory.unamur.be/staff/tcarlett)
- + [Thanos Manos](https://sites.google.com/site/thanosmanos/) (not yet confirmed)
+
 
 
 ### Program
