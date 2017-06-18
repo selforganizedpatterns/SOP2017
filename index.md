@@ -26,13 +26,20 @@ For **abstract** or **paper** submission, please refer to the **[Conference Mana
 ### Invited Speakers 
  + [Philipp Hövel](http://www.itp.tu-berlin.de/nachwuchsgruppe_nonlinear_dynamics_and_control_neuroscience_and_empirical_networks/hoevel/nwg_hoevel/)
  + Giulia Cencetti
- + [Timoteo Carletti](https://directory.unamur.be/staff/tcarlett)
-
 
 
 ### Program
- TBA
- 
+| Time | Speaker | Title|
+|--------------|----------------|------------------|
+| 14:45 - 15:15 | Philipp Hoevel    | Controlling chimera states by local parameter modification |
+| 15:15 - 15:45 | Giulia Cencetti   | Control of multidimensional systems on complex network |
+| 15:45 - 16:02 | Johanne Hizanidis | Robust chimera states in superconducting metamaterials |
+| 16:02 - 16:19 | Timoteo Carletti  | Desynchronise abnormal neuron behaviour to control epileptic seizures|
+| 16:19 - 16:36 | Julien Petit      | Turing patterns on time-varying networks |
+| 16:36 - 16:46 | Nikos E Kouvaris  | Control of pattern formation in bistable networks |
+| Coffee Break |
+| 17:15 - 17:32 | Alexandre Mauroy | Spectral identification of networks with diffusive coupling |
+| 17:32 - 17:49 | Sarah De Nigris  | Graph spectral characterization of the XY model on complex networks | 
 
 ### Location (Conference Venue)
 The Workshop will be held at [University of Firenze, Didactic Plexus "Capponi", via Gino Capponi 9, Firenze, Italy.](https://www.google.com/maps/place/Via+Gino+Capponi,+9,+50121+Firenze,+Italy/@43.777578,11.262196,16z/data=!4m5!3m4!1s0x132a541ac0209d39:0xe840655fb210944!8m2!3d43.7775777!4d11.2621957?ll=43.777578,11.262196&z=16&t=m&hl=en-US&gl=IT&mapclient=embed&q=Via+Gino+Capponi,+9+50121+Firenze)
